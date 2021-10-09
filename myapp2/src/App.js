@@ -2,7 +2,8 @@
 import './App.css';
 import React from 'react';
 import Introduction from './components/Introduction';
-import Qualification from './components/Qualification'
+import Qualification from './components/Qualification';
+import Projects from './components/Projects'
 // import Hello from './components/Hello'
 
 class App extends React.Component {
@@ -41,6 +42,8 @@ class App extends React.Component {
 
         <Qualification
         qualifications={this.state.qualifications}/>
+
+        <Projects/>
 
 
       </>
