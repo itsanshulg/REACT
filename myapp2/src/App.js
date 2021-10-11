@@ -26,6 +26,12 @@ class App extends React.Component {
           College:"JECRC",
           Degree: "BCA",
           Marks:"8.48"
+        },
+        {
+          SNo:3,
+          College:"JECRC",
+          Degree: "BBA",
+          Marks:"8.48"
         }
       ]
     }
