@@ -5,7 +5,9 @@ const Project=(props)=>{
     return (
         <React.Fragment className="projects">
             <h2>PROJECTS</h2>
-            <ul className="projects-list"></ul>
+            <ul className="projects-list">
+                
+            </ul>
         </React.Fragment>
     )
 
